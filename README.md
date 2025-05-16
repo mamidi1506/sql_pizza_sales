@@ -1,3 +1,11 @@
+# 🍕 Pizza Sales SQL Analysis Project
+
+This project showcases my SQL skills through the analysis of a fictional pizza sales dataset. It includes a series of SQL queries designed to extract key business insights from sales, customer behavior, and product performance.
+
+## 📂 Tools Used
+- MySQL
+- SQL Joins, Grouping, Window Functions
+- Aggregate Functions, CTEs, Subqueries
 -- Retrieve the total number of orders placed
 SELECT COUNT(order_id) AS total_orders FROM orders;
 
